@@ -220,5 +220,4 @@ tracker.print_summary('label-aware hopfield')
 
 - Ramsauer et al. (2020) — [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)
 - Rolnick et al. (2019) — [Experience Replay for Continual Learning](https://arxiv.org/abs/1811.11682)
-- Lopez-Paz & Ranzato (2017) — [Gradient Episodic Memory for Continual Learning](https://arxiv.org/abs/1706.08840)#   h o p f i e l d - c l  
- 
+- Lopez-Paz & Ranzato (2017) — [Gradient Episodic Memory for Continual Learning](https://arxiv.org/abs/1706.08840)
